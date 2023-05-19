@@ -43,7 +43,7 @@ const StyleHeader = styled.header`
     .menu-container > div {
       width: 18px;
       height: 4px;
-      background-color: #555;
+      background-color: ${({theme})=>theme.primaryColor};
       transition: 0.5s;
       border-radius: 8px;
       ${({ openMenu }) =>

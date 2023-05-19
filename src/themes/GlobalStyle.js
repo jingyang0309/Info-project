@@ -21,7 +21,6 @@ const GlobalStyle = createGlobalStyle`
         font-weight: 600;
     }
     .main-container{
-        padding: 0 10px;
         max-width:428px;
         margin:0 auto;
     }

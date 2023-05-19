@@ -17,5 +17,13 @@ const GlobalStyle = createGlobalStyle`
         margin-block-start: 0;
         margin-block-end: 0;
     }
+    p{
+        font-weight: 600;
+    }
+    .main-container{
+        padding: 0 10px;
+        max-width:428px;
+        margin:0 auto;
+    }
         `;
 export default GlobalStyle;

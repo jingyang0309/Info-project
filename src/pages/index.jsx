@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import reactLogo from '../assets/react.svg'
 import viteLogo from '/vite.svg'
-import InfoCard from '../components/InfoCard/InfoCard'
+import InfoCard from '../components/InfoCard/InfoCard.jsx'
 import About from '../components/About/About'
 function Homepage() {
     const [count, setCount] = useState(0)

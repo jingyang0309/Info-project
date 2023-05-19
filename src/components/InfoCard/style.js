@@ -2,11 +2,12 @@ import { styled } from "styled-components";
 
 const StyleInfoCard = styled.div`
   width: 90%;
-  background-color: #d7cba65c;
+  background-color: #e7e2c9;
   margin: 0 auto;
   padding: 30px 0 ;
   margin-top: 20px;
   border-radius: 6px;
+  position: relative;
   /* box-shadow: 0px 2px 6px -4px rgba(0, 0, 0, 0.6); */
   box-shadow: 0 8px 10px  rgba(17,17,26,0.1), 0 16px 56px  rgba(17,17,26,0.1), 0 24px 80px  rgba(172, 172, 175, 0.1), 0 0 0  currentColor, 0 0 0  currentColor;
   p {

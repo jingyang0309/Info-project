@@ -1,5 +1,5 @@
 const theme = {
-    primaryColor: '#84a0fe',
+    primaryColor: '#0667bf',
     primaryTextColor: '#000',
     secondaryTextColor: '#fff',
 }
